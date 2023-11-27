@@ -2,8 +2,8 @@
 [![linkedin](https://cdn-icons-png.flaticon.com/32/408/408703.png?w=740)](https://www.linkedin.com/in/nicolás-raffagnini-a5a985137/)	
 [![instagram](https://cdn-icons-png.flaticon.com/32/174/174855.png?w=740)](https://www.instagram.com/nikolaiis2/)
 ## 
-📝Now studying for full stack developer (M)ongoDB (E)xpress (R)eactJs (N)odeJs.
-
+📝Certified Full stack developer (M)ongoDB (E)xpress (R)eactJs (N)odeJs.
+📝Studying for Software Development at J.J. Urquiza Nº 49 Rosario.
 💼 🔎 Looking for my first experience as a programmer.
 
 🎮 My favorite hobbies are video games!
