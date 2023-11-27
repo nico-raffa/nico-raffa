@@ -5,6 +5,7 @@
 📝Certified Full stack developer (M)ongoDB (E)xpress (R)eactJs (N)odeJs.
 
 📝Studying for Software Development at J.J. Urquiza Nº 49 Rosario.
+
 💼 🔎 Looking for my first experience as a programmer.
 
 🎮 My favorite hobbies are video games!
