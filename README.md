@@ -3,6 +3,7 @@
 [![instagram](https://cdn-icons-png.flaticon.com/32/174/174855.png?w=740)](https://www.instagram.com/nikolaiis2/)
 ## 
 📝Certified Full stack developer (M)ongoDB (E)xpress (R)eactJs (N)odeJs.
+
 📝Studying for Software Development at J.J. Urquiza Nº 49 Rosario.
 💼 🔎 Looking for my first experience as a programmer.
 
