@@ -1,25 +1,11 @@
-# Hi! I'm Nico!
-[![linkedin](https://cdn-icons-png.flaticon.com/32/408/408703.png?w=740)](https://www.linkedin.com/in/nicolás-raffagnini-a5a985137/)	
-[![instagram](https://cdn-icons-png.flaticon.com/32/174/174855.png?w=740)](https://www.instagram.com/nikolaiis2/)
-## 
-📝Certified Full stack developer (M)ongoDB (E)xpress (R)eactJs (N)odeJs.
+¡Hola! Soy Nicolás Raffagnini, un desarrollador fullstack con una especialización en el desarrollo backend. Apasionado por la tecnología y todo lo que tenga que ver con ella. Muchos años de experiencia en el rubro y esperando sumar muchos más como desarrollador! Actualmente estoy trabajando en un proyecto personal compartido llamado Wotech, gestor de carpinterías.
 
-📝Studying for Software Development at J.J. Urquiza Nº 49 Rosario.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-raffagnini) 
 
-💼 🔎 Looking for my first experience as a programmer.
-
-🎮 My favorite hobbies are video games!
-
-## Languages and tools:
-
-[![javascript](https://cdn-icons-png.flaticon.com/32/919/919828.png?w=740)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![react](https://cdn-icons-png.flaticon.com/32/919/919851.png)](https://es.reactjs.org)
-[![nodejs](https://cdn-icons-png.flaticon.com/32/919/919825.png)](https://nodejs.org/es/)
-[![css3](https://cdn-icons-png.flaticon.com/32/732/732190.png)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![html5](https://cdn-icons-png.flaticon.com/32/174/174854.png)](https://developer.mozilla.org/es/docs/Glossary/HTML)
-[![mongodb](https://img.icons8.com/color/32/mongodb.png)](https://www.mongodb.com/es)
-[![firebase](https://img.icons8.com/color/32/firebase.png)](https://firebase.google.com)
-[![mysql](https://cdn-icons-png.flaticon.com/32/528/528260.png)](https://www.mongodb.com/es)
-##
-
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nico-raffa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-raffa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
