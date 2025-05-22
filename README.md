@@ -1,4 +1,4 @@
-¡Hola! Soy Nicolás Raffagnini, un desarrollador fullstack con una especialización en el desarrollo backend. Apasionado por la tecnología y todo lo que tenga que ver con ella. Muchos años de experiencia en el rubro y esperando sumar muchos más como desarrollador! Actualmente estoy trabajando en un proyecto personal compartido llamado Wotech, gestor de carpinterías.
+¡Hola! Soy Nicolás Raffagnini, un desarrollador fullstack con una especialización en el desarrollo backend. Apasionado por la tecnología y todo lo que tenga que ver con ella. Muchos años de experiencia en el rubro y esperando sumar muchos más como desarrollador! Actualmente estoy trabajando en NBG, desarrollando un sistema desde 0 a medida.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-raffagnini) 
