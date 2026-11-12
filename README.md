@@ -35,6 +35,18 @@ const nicolas = {
 
 ---
 
+## 🏢 Perfil de empresa
+
+Mi actividad laboral en **NBG** (incluido el desarrollo de **WWSystem**) la hago desde mi cuenta de trabajo:
+
+<p>
+  <a href="https://github.com/Nico-RaffaWW">
+    <img src="https://img.shields.io/badge/GitHub-Nico--RaffaWW-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de empresa" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
