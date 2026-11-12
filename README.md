@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Nicolás%20Raffagnini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20-%20Agentic%20IA&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Nicolás%20Raffagnini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20-%20Agentic%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Agentes+de+IA+%C2%B7+LLMs+%C2%B7+Tool-calling;Producto+end-to-end%3A+del+dato+al+deploy;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+PostgreSQL" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ```js
 const nicolas = {
-  rol:          "Software Engineer - Agentic IA",
+  rol:          "Software Engineer - Agentic AI",
   foco:         "Producto end-to-end — backend, frontend, infra e IA",
   ia:           ["agentes con LLMs", "tool-calling", "guardrails", "desarrollo asistido por IA"],
   actualmente:  "Construyendo WWSystem, un ERP a medida desde 0 en NBG",
@@ -31,7 +31,7 @@ const nicolas = {
 
 - 🔭 Trabajando en **NBG**, donde diseño y construyo **WWSystem**, un ERP para gestión de manufactura, de punta a punta: backend, frontend, infraestructura y observabilidad.
 - 🧭 Perfil **full-cycle**: llevo un producto desde el modelado de datos y la arquitectura hasta la UI, el deploy y el monitoreo, con base fuerte en **backend**.
-- 🤖 Diseño **agentes de IA** pensados para producción: tool-calling, grounding sobre datos reales, guardrails y control de costos. En el día a día trabajo con **flujos de desarrollo asistidos por IA** (Claude Code) para iterar más rápido sin resignar calidad.
+- 🤖 Diseño **agentes de IA** pensados para producción: tool-calling, grounding sobre datos reales, guardrails y control de costos. En el día a día trabajo con **flujos de desarrollo asistidos por IA** (Claude Code, GitHub Copilot, Codex y OpenCode) para iterar más rápido sin resignar calidad.
 - 🌱 Siempre explorando nuevas herramientas, patrones y tecnologías.
 - 💬 Hablame de: agentes de IA, arquitectura backend, APIs REST, seguridad, tiempo real (WebSockets), bases de datos, Docker y observabilidad.
 
@@ -78,6 +78,9 @@ Mi actividad laboral en **NBG** (incluido el desarrollo de **WWSystem**) la hago
     <td>
       <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Tool_Calling-1a1b27?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Semantic_Search-7aa2f7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Prompt_Engineering-bb9af7?style=for-the-badge" />
