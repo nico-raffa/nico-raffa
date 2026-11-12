@@ -158,7 +158,53 @@ const nicolas = {
 
 ---
 
-## 🏭 Proyecto principal — WWSystem
+## ⭐ Proyectos principales
+
+### 🤖 Seller Agent — Vendedor con IA por WhatsApp
+
+> **Vendedor conversacional con IA** que atiende por WhatsApp 24/7 con **precios y stock reales**, arma el carrito en vivo, deriva a una persona cuando hace falta y centraliza la operación en un **panel multilínea en tiempo real**.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-B22222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tienda_Nube-00AEEF?style=flat-square" />
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Qué hace**
+- Agente con **tool-calling sobre Gemini**: búsqueda semántica de catálogo, carrito y stock
+- Ofertas y cupones con un **motor de precios determinístico**
+- **Guard de derivación** a humano, **validador de grounding** de productos/precios e interceptor de estilo
+- Seguimientos automáticos, carritos abandonados y **memoria del cliente**
+- Panel operativo para supervisar chats, tomar el control y aprobar pedidos
+
+</td>
+<td width="50%" valign="top">
+
+**📈 En números**
+- 📬 **4 colas BullMQ** para desacoplar la latencia de la IA
+- 🗄️ **20 migraciones** con aislamiento por línea de WhatsApp
+- 📝 **~31.500 líneas** de JS/JSX entre backend y frontend
+- ⚡ **Caché read-through en Redis** con hit ratio expuesto en métricas
+- 📡 Tiempo real por **SSE**, sin polling, y trazabilidad de costo de tokens
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏭 WWSystem — ERP a medida en NBG
 
 > **ERP a medida para gestión de manufactura**, diseñado y desarrollado desde 0 en NBG. Hoy está en producción.
 
@@ -200,19 +246,6 @@ const nicolas = {
 ```
 
 **Arquitectura y prácticas:** backend modular por *features* · auth con JWT y cookies, protección CSRF, Helmet y rate limiting · RBAC · notificaciones en tiempo real con Socket.io · tareas programadas con cron · backups automáticos con systemd · tests con Mocha, Chai, Sinon y Supertest · E2E con Cypress · Git hooks con Husky.
-
----
-
-## 🚀 Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/nico-raffa/aoweb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-raffa&repo=aoweb&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/nico-raffa/porfolio.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-raffa&repo=porfolio.dev&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/nico-raffa/s13-05-t-node-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-raffa&repo=s13-05-t-node-react&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/nico-raffa/c15-08-t-node-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-raffa&repo=c15-08-t-node-react&theme=tokyonight&hide_border=true" /></a>
-
-</div>
 
 ---
 
