@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Nicolás%20Raffagnini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20Backend%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Nicolás%20Raffagnini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20-%20Agentic%20IA&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+%7C+APIs+%7C+Arquitectura+de+sistemas;Construyendo+software+a+medida+desde+0;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+PostgreSQL" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ```js
 const nicolas = {
-  rol:          "Fullstack Developer",
+  rol:          "Software Engineer - Agentic IA",
   foco:         "Backend — APIs, lógica de negocio y arquitectura",
   actualmente:  "Construyendo WWSystem, un ERP a medida desde 0 en NBG",
   pasiones:     ["tecnología", "código limpio", "aprender siempre"],
@@ -253,12 +253,12 @@ const nicolas = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nico-raffa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-raffa&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nico-raffa&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nico-raffa&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=nico-raffa&theme=tokyonight&hide_border=true" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nico-raffa&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nico-raffa&theme=tokyonight" width="100%" />
 
 </div>
 
