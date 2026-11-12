@@ -45,6 +45,12 @@ Mi actividad laboral en **NBG** (incluido el desarrollo de **WWSystem**) la hago
   </a>
 </p>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nico-RaffaWW&theme=tokyonight" width="100%" alt="Gráfico de contribuciones de la cuenta de empresa" />
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
