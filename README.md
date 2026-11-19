@@ -231,7 +231,7 @@
 
 **¿Tenés un proyecto o una idea? ¡Conectemos!** 🚀
 
-Disponible para roles de **Tech Lead / Senior Full-Stack & AI Engineer**
+Disponible para roles de **Tech Lead / Semi-Senior Full-Stack & AI Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-raffagnini)
 [![Email](https://img.shields.io/badge/Email-Escribime-bb9af7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@ejemplo.com)
