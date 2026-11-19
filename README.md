@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-raffagnini)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nico-raffa)
 [![GitHub Work](https://img.shields.io/badge/Work-Nico--RaffaWW-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nico-RaffaWW)
-[![Email](https://img.shields.io/badge/Email-Contacto-bb9af7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-bb9af7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.raffagnini95@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=nico-raffa&style=for-the-badge&color=7aa2f7&label=VISITAS)
 
 </div>
